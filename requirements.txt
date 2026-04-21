@@ -1,0 +1,6 @@
+aiogram>=3.17.0
+aiofiles>=23.2.1
+TikTokApi>=6.4.1
+playwright>=1.49.0
+moviepy>=1.0.3
+python-dotenv>=1.0.0
